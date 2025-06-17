@@ -1,0 +1,4 @@
+background : #F9FBFA
+primary : #7C4C19
+secondary : #AAB7BD
+accent: #969AAD
